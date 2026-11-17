@@ -17,6 +17,7 @@ I enjoy learning new technologies, improving my programming skills, and turning 
 * 🐍 Python & Problem Solving
 * 🤖 Artificial Intelligence Fundamentals
 * 🌐 REST APIs & Backend Development
+* 🤖 RAG and LangChain
 * 🎓 Software Engineering at Turing College
 
 ---
@@ -38,6 +39,8 @@ I enjoy learning new technologies, improving my programming skills, and turning 
 * Bootstrap
 * JavaScript (DOM manipulation & form validation)
 * Pug templates
+* streamlit
+* nextjs
 
 ### Backend & Database
 
@@ -46,12 +49,14 @@ I enjoy learning new technologies, improving my programming skills, and turning 
 * MongoDB & Mongoose
 * Authentication with Passport.js & sessions
 * Server-side rendering with Pug
+* ChromaDB
 
 ### Tools
 
 * Git & GitHub
 * VS Code
 * npm
+* version control
 * Render (deployment)
 * Postman (API testing)
 
@@ -85,10 +90,10 @@ A collection of Python programming exercises focused on problem-solving, algorit
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/kamushabe-ampulira-654270449
+* 💼 LinkedIn: https://www.linkedin.com/in/kamushabe-ampulira/
 * 📧 Email: kamushabeampulira@gmail.com
 * 🌐 Portfolio: https://kamushabe-portfolio.onrender.com
 
 ---
 
-> *"Code. Learn. Improve. Repeat."* 🚀
+> "Code. Learn. Improve. Repeat.🔁"
