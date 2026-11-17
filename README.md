@@ -21,34 +21,45 @@ I enjoy learning new technologies, improving my programming skills, and turning 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+* JavaScript
+* Python
+* HTML5
+* CSS3
+* SQL
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+* HTML5 & CSS3
+* Responsive layouts (Flexbox & CSS Grid)
+* Bootstrap
+* JavaScript (DOM manipulation & form validation)
+* Pug templates
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+* Node.js & Express.js
+* REST API design & development
+* MongoDB & Mongoose
+* Authentication with Passport.js & sessions
+* Server-side rendering with Pug
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+* Git & GitHub
+* VS Code
+* npm
+* Render (deployment)
+* Postman (API testing)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏪 NYONDO Hardware Management System
+### 🏪 [NYONDO Hardware Management System](https://github.com/kamushabeampulira-afk/NyondoStock)
 
 A business management platform designed to manage inventory, sales, supplier credits, and customer deposit schemes.
 
@@ -72,25 +83,11 @@ A collection of Python programming exercises focused on problem-solving, algorit
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamushabeampulira-afk\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamushabeampulira-afk\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kamushabeampulira-afk\&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/kamushabeampulira 
+* 💼 LinkedIn: https://linkedin.com/in/kamushabeampulira
 * 📧 Email: kamushabeampulira@gmail.com
-* 🌐 Portfolio: Coming soon
+* 🌐 Portfolio: https://kamushabe-portfolio.onrender.com
 
 ---
 
