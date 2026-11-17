@@ -85,7 +85,7 @@ A collection of Python programming exercises focused on problem-solving, algorit
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/kamushabeampulira
+* 💼 LinkedIn: https://www.linkedin.com/in/kamushabe-ampulira-654270449
 * 📧 Email: kamushabeampulira@gmail.com
 * 🌐 Portfolio: https://kamushabe-portfolio.onrender.com
 
